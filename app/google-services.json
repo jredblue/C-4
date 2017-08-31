@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86703810859",
+    "firebase_url": "https://cfour-de8a8.firebaseio.com",
+    "project_id": "cfour-de8a8",
+    "storage_bucket": "cfour-de8a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86703810859:android:51db32f74d81642f",
+        "android_client_info": {
+          "package_name": "com.example.jaredblumen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86703810859-uf8d9ugb0dq8hjkofn2ion6i7c2sc3c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMUO4Y3N45FoAQ7SQ4UHyaCtc9NSUOYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
